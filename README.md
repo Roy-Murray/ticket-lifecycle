@@ -58,6 +58,27 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Log back in as **Help Desk Agent (john)**.
 - Attempt to view or modify the ticket. Verify whether the changes are accessible or editable.
 
+<h3>5.) Work the Ticket to Completion</h3>
+
+- Log in as **Help Desk Agent (jane)**.
+- Take ownership of the ticket, work the issue, and resolve it.
+- Mark the ticket as **Closed** once the issue is resolved.
+
+![image](https://github.com/user-attachments/assets/a645ecd7-d0ca-4d4b-b5cb-730eb18c3dba)
+
+<h3>6.) Create another Ticket as an End User</h3>
+
+- **Scenario 2:** Create a ticket as an end-user with the following details:
+  - **Subject:** "Accounting department needs Adobe upgrade, broken"
+  - **Details:** Describe the issue briefly (e.g., "The Adobe software used by the accounting department is broken and needs an upgrade.")
+
+![image](https://github.com/user-attachments/assets/71db2cdb-3ec1-48a7-b6a7-c361b5cbfc59)
+
+![image](https://github.com/user-attachments/assets/f7ae5ead-f54e-4135-be93-8ea2defdfc14)
+
+
+
+
 
 
   
