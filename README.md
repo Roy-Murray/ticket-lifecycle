@@ -129,5 +129,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ![image](https://github.com/user-attachments/assets/1d1da998-b995-4de2-96f1-24761d6f5305)
 
+<h3>12.) Set Ticket Properties as Help Desk Agent</h3>
+
+- update ticket with these properties:
+ - **SLA:** Sev-B (4 hours, 24/7).
+  - **Department:** Support.
+  - **Priority Level:** Emergency
+  - **Assign to:** John 
 
   
