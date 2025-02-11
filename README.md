@@ -89,12 +89,34 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <h3>8.) Set Ticket Properties</h3>
 
 - Update the ticket with the following properties:
-  - **SLA:** Sev-c (8 hours, 24/7).
+  - **SLA:** Sev-b (4 hours, 24/7).
   - **Department:** Support.
  
    ![image](https://github.com/user-attachments/assets/448fcec0-4f81-4c50-a639-249e1c4dd29a)
+  
+<h3>9.) Work the Ticket to Completion</h3>
+
+- Log in as **Help Desk Agent (john)**.
+- Take ownership of the ticket, work the issue, and resolve it.
+- Mark the ticket as **Closed** once the issue is resolved.
+
+![image](https://github.com/user-attachments/assets/aae08732-0427-479f-96b0-cd02d6deb296)
+
+![image](https://github.com/user-attachments/assets/aed32b64-fdae-4ac4-88a9-d5199857547f)
 
 
+<h3>10.) Create a Final Ticket as an End-User</h3>
+
+- **Scenario 3:** Create a ticket as an end-user with the following details:
+  - **Subject:** "CFO’s laptop will no longer turn on"
+  - **Details:** Describe the issue briefly (e.g., "The CFO's laptop is not powering on, and it needs urgent attention.")
+ 
+  
+
+![image](https://github.com/user-attachments/assets/dccf4dd6-041f-4364-95b5-8d39d939e124)
+
+
+![image](https://github.com/user-attachments/assets/7a5deb05-6df2-4147-98e7-c7c4d746391f)
 
 
 
