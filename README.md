@@ -135,6 +135,22 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
  - **SLA:** Sev-B (4 hours, 24/7).
   - **Department:** Support.
   - **Priority Level:** Emergency
-  - **Assign to:** John 
+  - **Assign to:** John
+
+![image](https://github.com/user-attachments/assets/b75ce342-8247-43a5-a5f6-62d86710d660)
+
+
+<h3>13.) Work the Ticket to Completion</h3>
+
+- Log in as **Help Desk Agent (john)**.
+- Take ownership of the ticket, work the issue, and resolve it.
+- Mark the ticket as **Closed** once the issue is resolved.
+
+![image](https://github.com/user-attachments/assets/286e8ec1-ff61-4787-b4d0-d519034d9266)
+
+<h3>Conclusion</h3>
+
+By following these steps we demonstrated the lifecycle of a ticket sucessfully, This lab displayed the significance of ticket properties, proper assignment, and resolution processes in a help desk environment.
+
 
   
