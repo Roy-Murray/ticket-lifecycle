@@ -74,7 +74,25 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ![image](https://github.com/user-attachments/assets/71db2cdb-3ec1-48a7-b6a7-c361b5cbfc59)
 
-![image](https://github.com/user-attachments/assets/f7ae5ead-f54e-4135-be93-8ea2defdfc14)
+
+<h3>7.) Observe Ticket Properties as Help Desk Agent</h3>
+
+- Log in as **Help Desk Agent (john)**.
+- Observe the ticket’s properties:
+  - **Priority:** Default value.
+  - **Department:** Default department.
+  - **SLA:** Default SLA.
+  - **Assigned To:** Not yet assigned.
+ 
+  ![image](https://github.com/user-attachments/assets/f7ae5ead-f54e-4135-be93-8ea2defdfc14)
+
+  <h3>8.) Set Ticket Properties</h3>
+
+- Update the ticket with the following properties:
+  - **SLA:** Sev-c (8 hours, 24/7).
+  - **Department:** Support.
+ 
+   ![image](https://github.com/user-attachments/assets/448fcec0-4f81-4c50-a639-249e1c4dd29a)
 
 
 
