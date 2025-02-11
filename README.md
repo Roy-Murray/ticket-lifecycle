@@ -104,6 +104,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ![image](https://github.com/user-attachments/assets/aed32b64-fdae-4ac4-88a9-d5199857547f)
 
+![image](https://github.com/user-attachments/assets/dccf4dd6-041f-4364-95b5-8d39d939e124)
+
 
 <h3>10.) Create a Final Ticket as an End-User</h3>
 
@@ -111,14 +113,21 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - **Subject:** "CFO’s laptop will no longer turn on"
   - **Details:** Describe the issue briefly (e.g., "The CFO's laptop is not powering on, and it needs urgent attention.")
  
-  
-
-![image](https://github.com/user-attachments/assets/dccf4dd6-041f-4364-95b5-8d39d939e124)
 
 
 ![image](https://github.com/user-attachments/assets/7a5deb05-6df2-4147-98e7-c7c4d746391f)
 
+<h3>11.) Observe Ticket Properties as Help Desk Agent</h3>
 
+ - Log in as **Help Desk Agent (john)**.
+- Observe the ticket’s properties:
+  - **Priority:** Default value.
+  - **Department:** Default department.
+  - **SLA:** Default SLA.
+  - **Assigned To:** Not yet assigned.
+
+
+![image](https://github.com/user-attachments/assets/1d1da998-b995-4de2-96f1-24761d6f5305)
 
 
   
